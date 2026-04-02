@@ -160,3 +160,4 @@ For very long sessions (50k+ words), a future improvement would compress older c
 ## License
 
 MIT
+# Story Weaver Python
